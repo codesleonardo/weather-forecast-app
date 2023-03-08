@@ -6,4 +6,4 @@ Preview: https://codesleonardo.github.io/weather-forecast-app/
 
 # API
 
-- It fetches the data from the OpenWeatherMap and ipapi API.
+- It fetches the data from the OpenWeatherMap API.
